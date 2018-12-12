@@ -1,5 +1,5 @@
 Recap1
-comment:
+comment: Good
 
 Recap2: Git Life Cycle
 comment: Chanchai.
