@@ -3,12 +3,11 @@ comment:
 
 Recap2: Git Life Cycle
 comment: Chanchai.
-
-เกี่ยวกับ Git Life Cycle
-Staged : คือสถานะที่ไฟล์พร้อมจะ commit
-unstaged : คือไฟล์ที่ถูกแก้ไขแต่ว่ายังไม่ได้เตรียม commit
-untracked : คือไฟล์ที่ยังไม่ถูก track โดย Git (ส่วนมากจะเป็นไฟล์ที่เพิ่งสร้างใหม่)
-deleted : ไฟล์ที่ถูกลบไปแล้ว
+Git Life Cycle
+Staged : 
+unstaged : 
+untracked : 
+deleted : 
 
 
 Recap3
