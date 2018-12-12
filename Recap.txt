@@ -1,8 +1,14 @@
 Recap1
 comment:
 
-Recap2
-comment:
+Recap2: Git Life Cycle
+comment: Chanchai.
+Git Life Cycle
+Staged : 
+unstaged : 
+untracked : 
+deleted : 
+
 
 Recap3
 comment: dome dome dome dome
