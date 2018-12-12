@@ -1,11 +1,18 @@
 Recap1
-comment:
+comment: Good
 
-Recap2
-comment:
+Recap2: Git Life Cycle
+comment: Chanchai.
+Git Life Cycle
+Staged : 
+unstaged : 
+untracked : 
+deleted : 
+
 
 Recap3
-comment:
+comment: dome dome dome dome
 
 Recap4
-comment:
+comment: I could get GIT to develope program.
+
